@@ -1,0 +1,71 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+button {
+  border: none;
+  box-shadow: 0px 1px #888888;
+  top: 140px;
+  position: relative;
+}
+
+img {
+  border-radius: 10%;
+  width: 100px;
+  height: 100px;
+  min-width: 100px;
+}
+
+#main {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
+.handwritten {
+  font-family: "Great Vibes", cursive;
+  font-size: 30px;
+  text-align: center;
+}
+
+#set {
+  padding-bottom: 100px;
+  padding-top: 100px;
+}
+
+#second-header {
+  font-family: Arial;
+  text-align: center;
+}
+
+#head {
+  text-align: center;
+}
+
+#information {
+  padding-left: 20px;
+  width: 100%;
+}
+
+li {
+  padding-bottom: 50px;
+  position: relative;
+}
+
+#mealname {
+  font-weight: 400;
+  font-size: 23px;
+}
+
+#logo {
+  width: 75px;
+  height: 75px;
+}
+
+#top {
+  text-align: center;
+}
