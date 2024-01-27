@@ -62,10 +62,14 @@ li {
 }
 
 #logo {
-  width: 75px;
   height: 75px;
+  width: 75px;
+  margin: auto;
+  display: block;
 }
 
-#top {
+
+#pagename {
+  width: 100%;
   text-align: center;
 }
